@@ -30,10 +30,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: hi
-subtitle: hi
+title: Donald Le
+subtitle: 
 description: >- # this means to ignore newlines until "baseurl:"
-  don
 author: Donald Le
 email: donaldle@berkeley.edu
 avatar: assets/images/avatar.jpg
@@ -48,7 +47,7 @@ twitter_url:
 facebook_url:
 googleplus_url:
 instagram_url:
-linkedin_url:
+linkedin_url: https://www.linkedin.com/in/donald-le/
 github_url:
 stackoverflow_url:
 pinterest_url:
