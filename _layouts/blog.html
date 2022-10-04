@@ -11,7 +11,7 @@ layout: default
 	<!-- Posts List -->
 	{%- for _post in _posts -%}
 		{%- capture _title -%}
-			<a href="https://donaldle.com/blog.html">{{- _post.title -}}</a>
+			<a href="blog.html">{{- _post.title -}}</a>
 		{%- endcapture -%}
 		{%- capture _subtitle -%}
 			{% if _post.author -%}{{- _post.author }} | {% endif %}
