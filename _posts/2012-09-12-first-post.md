@@ -1,5 +1,5 @@
 ---
-title: First Post
+title: Throttle Pedal
 author: Chris
 layout: post
 ---
