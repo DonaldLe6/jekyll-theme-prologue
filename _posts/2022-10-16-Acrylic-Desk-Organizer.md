@@ -9,4 +9,3 @@ layout: post
 </div>
 <center>Page is under construction :)</center>
 
-Page is under construction :)
