@@ -2,7 +2,7 @@
 title: Carbon Fiber Pedal Cups
 layout: post
 ---
-  <a class="image fit"><img src="assets/images/Pedal cup CAD.JPG" alt="Pedalcupcad" /></a>
+<img src="assets/images/Pedal cup CAD.JPG" alt="Pedalcupcad" />
 
 Page is under construction :)
 
