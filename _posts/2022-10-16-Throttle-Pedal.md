@@ -3,9 +3,11 @@ title: Throttle Pedal
 layout: post
 ---
 <div style="text-align: center;">
-<img src="https://www.donaldle.com/assets/images/Deskorganizer.JPG" alt="" width="587" height="618"/> <br>
-<img src="https://www.donaldle.com/assets/images/Acrylicdeskorganizer.JPG" alt="Acrylicdeskorganizer" width="587" height="618">
-<img src="https://www.donaldle.com/assets/images/Acrylicdeskorganizer2.JPG" alt="Acrylicdeskorganizer2" />
+<img src="https://www.donaldle.com/assets/images/ThrottlePedal.JPG" alt="tp" />
+<img src="https://www.donaldle.com/assets/images/Throttlepedalcompare.JPG" alt="tpc" /> <br>
+<img src="https://www.donaldle.com/assets/images/Throttlepedalprototype.JPG" alt="tpp" />
+<img src="https://www.donaldle.com/assets/images/Torsionspringtesting.JPG" alt="tpts" />
 </div>
-<center>Page is under construction :)</center>
+
+<center>Page is under construction </center>
 
