@@ -7,5 +7,5 @@ layout: post
 <img src="https://www.donaldle.com/assets/images/Dementiareminderinternal.JPG" alt="Dementiareminderinternal" >
 <img src="https://www.donaldle.com/assets/images/Dementiareminderinternal2.JPG" alt="Dementiareminderinternal2" />
 </div>
-<center>Page is under construction :)</center>
+<center>Page is under construction </center>
 
