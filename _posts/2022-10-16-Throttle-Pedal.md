@@ -11,7 +11,7 @@ layout: post
   <div class="column">
     Throttle Pedal Assembly CAD</center>
      <ul>
-      <li>Designed in Solidworks/li>
+      <li>Designed in Solidworks </li>
      </ul>
   </div>
 </div>
