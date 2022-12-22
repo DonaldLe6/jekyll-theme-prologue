@@ -11,7 +11,7 @@ layout: post
   
   <div class="column">
     <img src="https://www.donaldle.com/assets/images/Throttlepedal2.jpeg" height="450" alt="tpc" /> <br>
-    <center>Previous Year's Design(left) vs Current Design(right)</center>
+    <center></center>
    </div>
 </div>
 
