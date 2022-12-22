@@ -21,8 +21,8 @@ layout: post
   
    <div class="column">
     <img src="https://www.donaldle.com/assets/images/Throttlepedalprototype.JPG" height="450" alt="tpp" />
-    <center>Initial prototype made from</center>
-    <center>laser cut wood and 3-d printing</center>
+    <center>Initial prototype made from laser cut</center>
+    <center> wood and 3-d printing</center>
    </div>
   
    <div class="column"> 
