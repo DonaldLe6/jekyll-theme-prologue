@@ -26,7 +26,7 @@ layout: post
     <ul>
       <li>Utilzed two 3/8 in plates of 6061 T6 aluminum</li>
       <li>Manufactured by waterjet & post-processed on the drill press </li>
-      <li>Reduceded weight by ~50% while maintaining the same FOS</li>
+      <li>Reduced weight by ~50% while maintaining the same FOS</li>
       <li>Utilized bronze sleeve bearings to package torsion springs </li>
       <li>Reduced deflection </li>
     </ul>
