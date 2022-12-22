@@ -33,6 +33,23 @@ layout: post
   </div>
 </div>
 
+<div class="row center">
+  
+  <div class="column">
+    <img src="https://www.donaldle.com/assets/images/Throttlepedalsim.png" alt="tp" />
+  </div>
+  
+  <div class="column">
+    Throttle Pedal Simulation
+     <ul>
+      <li>Simulated in Ansys static structural </li>
+      <li>50lbs of force on the top face</li>
+      <li>Frictionless constrain on the hardstop</li>
+      <li>Remote displacment for the pivot </li>
+     </ul>
+  </div>
+</div>
+
 <div class="row center" >
   
   <div class="column">
