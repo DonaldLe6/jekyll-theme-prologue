@@ -6,17 +6,6 @@ layout: post
   
   <div class="column">
     <img src="https://www.donaldle.com/assets/images/ThrottlePedal1.jpeg" alt="tp" />
-    <center>Throttle pedal assembly</center>
-  </div>
-  
-  <div class="column">
-    <center>Throttle pedal assembly</center>
-   </div>
-</div>
-
-<div class="row center" style="text-align: center;">
-  <div class="column">
-    <img src="https://www.donaldle.com/assets/images/Throttlepedal2.jpeg" alt="tp" />
   </div>
   
   <div class="column">
@@ -26,18 +15,38 @@ layout: post
 <br>  
 
 <div class="row center" style="text-align: center;">
+  <div class="column">
+    <img src="https://www.donaldle.com/assets/images/Throttlepedal2.jpeg" alt="tp" />
+  </div>
   
-   <div class="column">
-    <img src="https://www.donaldle.com/assets/images/Throttlepedal3.png" alt="tpp" />
-    <center>Initial prototype made from laser cut</center>
-    <center> wood and 3-d printing</center>
+  <div class="column">
+    <center>2022 throttle pedal vs 2023 throttle pedal</center>
    </div>
+</div>
+<br>  
+
+<div class="row center" style="text-align: center;">
   
-   <div class="column"> 
-    <img src="https://www.donaldle.com/assets/images/Torsionspringtesting.JPG" alt="tpts" />
+  <div class="column">
+    <img src="https://www.donaldle.com/assets/images/Throttlepedal3.png" alt="tp" />
+  </div>
+  
+  <div class="column">
+    <center>Prototype</center>
+   </div>
+</div>
+<br>  
+
+<div class="row center" style="text-align: center;">
+  <div class="column">
+    <img src="https://www.donaldle.com/assets/images/Torsionspringtesting.JPG" alt="tp" />
+  </div>
+  
+  <div class="column">
     <center>Torsion spring return force testing</center>
    </div>
- </div>
+</div>
+<br>  
 
 
 <center>Page is under construction </center>
