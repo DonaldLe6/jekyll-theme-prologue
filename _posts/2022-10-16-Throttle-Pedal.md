@@ -21,9 +21,10 @@ layout: post
   <div class="column">
     2022 throttle pedal(left) vs 2023 throttle pedal(right)
     <ul>
+      <li>Manufactured from two 3/8 in plates of 6061 T6 aluminum</li>
       <li>Weight reduced by ~50% while maintaining the same FOS</li>
-      <li>Reduced defelection</li>
       <li>Utilized bronze sleeve bearings to package torsion springs </li>
+      <li>Reduced deflection </li>
     </ul>
   </div>
 </div>
