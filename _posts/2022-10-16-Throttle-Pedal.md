@@ -43,7 +43,7 @@ layout: post
     Throttle Pedal Simulation
      <ul>
       <li>Simulated in Ansys static structural </li>
-      <li>50lbs of force on the top face</li>
+      <li>50lbs of force on the top face acquired from testing</li>
       <li>Frictionless constrain on the hardstop</li>
       <li>Remote displacment for the pivot </li>
      </ul>
