@@ -9,7 +9,7 @@ layout: post
   </div>
   
   <div class="column">
-    <center>Throttle pedal assembly CAD</center>
+    <center>Throttle Pedal Assembly CAD</center>
    </div>
 </div>
 
@@ -19,7 +19,7 @@ layout: post
   </div>
   
   <div class="column">
-    2022 throttle pedal(left) vs 2023 throttle pedal(right)
+    2022 Throttle Pedal(left) vs 2023 Throttle Pedal(right)
     <ul>
       <li>Manufactured from two 3/8 in plates of 6061 T6 aluminum</li>
       <li>Weight reduced by ~50% while maintaining the same FOS</li>
@@ -29,14 +29,18 @@ layout: post
   </div>
 </div>
 
-<div class="row center" style="text-align: center;">
+<div class="row center" >
   
   <div class="column">
     <img src="https://www.donaldle.com/assets/images/Throttlepedal3.png" alt="tp" />
   </div>
   
   <div class="column">
-    <center>Prototype</center>
+    Initial Prototype
+     <ul>
+      <li>Laser cut wood pieces</li>
+      <li>3-D printed truncated pedal tray from PLA</li>
+    </ul>
    </div>
 </div>
 
