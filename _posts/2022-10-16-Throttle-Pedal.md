@@ -5,7 +5,7 @@ layout: post
 <div class="row" style="text-align: center;">
   
   <div class="column">
-    <img src="https://www.donaldle.com/assets/images/ThrottlePedal.JPG" height="450" alt="tp" />
+    <img src="https://www.donaldle.com/assets/images/ThrottlePedal1.jpeg" alt="tp" />
     <center>Throttle pedal assembly</center>
   </div>
   
