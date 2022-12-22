@@ -12,7 +12,6 @@ layout: post
     <center>Throttle pedal assembly</center>
    </div>
 </div>
-<br>  
 
 <div class="row center" style="text-align: center;">
   <div class="column">
@@ -23,7 +22,6 @@ layout: post
     <center>2022 throttle pedal vs 2023 throttle pedal</center>
    </div>
 </div>
-<br>  
 
 <div class="row center" style="text-align: center;">
   
@@ -35,7 +33,6 @@ layout: post
     <center>Prototype</center>
    </div>
 </div>
-<br>  
 
 <div class="row center" style="text-align: center;">
   <div class="column">
