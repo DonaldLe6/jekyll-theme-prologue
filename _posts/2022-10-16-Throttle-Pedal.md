@@ -13,7 +13,7 @@ layout: post
    </div>
 </div>
 
-<div class="row center" style="text-align: center;">
+<div class="row center">
   <div class="column">
     <img src="https://www.donaldle.com/assets/images/Throttlepedal2.jpeg" alt="tp" />
   </div>
