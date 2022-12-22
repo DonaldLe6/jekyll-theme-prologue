@@ -23,8 +23,8 @@ layout: post
     <ul>
       <li>Weight reduced by ~50% while maintaining the same FOS</li>
       <li>Reduced defelection</li>
-      <li>Bronze sleeve bearings allowed for the 
-        packaging of the torsion springs</li>
+      <li>Bronze sleeve bearings allowed for the <br>
+      packaging of the torsion springs </li>
     </ul>
   </div>
 </div>
