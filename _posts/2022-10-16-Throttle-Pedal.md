@@ -53,7 +53,7 @@ layout: post
   <div class="column">
     Torsion Spring Return Force Testing
     <ul>
-      <li>Tested many different torsion springs at various preloads</li>
+      <li>Tested different torsion springs at various preloads</li>
       <li>Ended up manufacturing custom torsion springs out of <br> 304 stainless steel due to space constraints</li>
     </ul>
    </div>
