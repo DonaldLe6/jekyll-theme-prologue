@@ -10,7 +10,7 @@ layout: post
   </div>
   
   <div class="column">
-    <img src="https://www.donaldle.com/assets/images/Throttlepedal2.jpeg" height="450" alt="tpc" /> <br>
+    <img src="https://www.donaldle.com/assets/images/Throttlepedal2.jpeg" alt="tpc" /> <br>
     <center></center>
    </div>
 </div>
@@ -20,13 +20,13 @@ layout: post
 <div class="row center" style="text-align: center;">
   
    <div class="column">
-    <img src="https://www.donaldle.com/assets/images/Throttlepedal3.png" height="450" alt="tpp" />
+    <img src="https://www.donaldle.com/assets/images/Throttlepedal3.png" alt="tpp" />
     <center>Initial prototype made from laser cut</center>
     <center> wood and 3-d printing</center>
    </div>
   
    <div class="column"> 
-    <img src="https://www.donaldle.com/assets/images/Torsionspringtesting.JPG" height="450" alt="tpts" />
+    <img src="https://www.donaldle.com/assets/images/Torsionspringtesting.JPG" alt="tpts" />
     <center>Torsion spring return force testing</center>
    </div>
  </div>
