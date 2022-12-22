@@ -13,7 +13,7 @@ layout: post
      <ul>
       <li>Designed in Solidworks/li>
      </ul>
-   </div>
+  </div>
 </div>
 
 <div class="row center">
