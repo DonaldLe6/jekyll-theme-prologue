@@ -28,7 +28,7 @@ layout: post
       <li>Manufactured by waterjet & post-processed with drill press </li>
       <li>Reduced weight by ~50% while maintaining the same FOS</li>
       <li>Utilized bronze sleeve bearings to package torsion springs </li>
-      <li>Reduced deflection </li>
+      <li>Reduced max deflection at 100lbs of force to 0.07in </li>
     </ul>
   </div>
 </div>
