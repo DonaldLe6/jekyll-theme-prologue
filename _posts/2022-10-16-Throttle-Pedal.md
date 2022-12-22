@@ -10,7 +10,7 @@ layout: post
   </div>
   
   <div class="column">
-    <img src="https://www.donaldle.com/assets/images/Throttlepedalcompare.JPG" height="450" alt="tpc" /> <br>
+    <img src="https://www.donaldle.com/assets/images/ThrottlePedal2.jpeg" height="450" alt="tpc" /> <br>
     <center>Previous Year's Design(left) vs Current Design(right)</center>
    </div>
 </div>
