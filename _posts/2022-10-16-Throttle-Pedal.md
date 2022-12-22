@@ -9,7 +9,7 @@ layout: post
   </div>
   
   <div class="column">
-    <center>Throttle pedal assembly</center>
+    <center>Throttle pedal assembly CAD</center>
    </div>
 </div>
 
@@ -19,7 +19,7 @@ layout: post
   </div>
   
   <div class="column">
-    <center>2022 throttle pedal vs 2023 throttle pedal</center>
+    <center>2022 throttle pedal(left) vs 2023 throttle pedal(right) wqeqweqweqwewfwqefewfwfewfqwfwefwefewfwkjbfwkjfbwkfbwkbqkf</center>
    </div>
 </div>
 
