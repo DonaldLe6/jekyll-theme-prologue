@@ -9,7 +9,7 @@ layout: post
   </div>
   
   <div class="column">
-    Throttle Pedal Assembly CAD</center>
+    Throttle Pedal Assembly CAD
      <ul>
       <li>Designed in Solidworks </li>
      </ul>
