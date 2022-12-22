@@ -19,15 +19,13 @@ layout: post
   </div>
   
   <div class="column">
-    <center>2022 throttle pedal(left) vs 2023 throttle pedal(right)</center>
+    2022 throttle pedal(left) vs 2023 throttle pedal(right)</center>
     <ul>
       <li>Weight reduced by ~50% while maintaining the same FOS</li>
       <li>Reduced defelection</li>
       <li>Bronze sleeve bearings allowed for the packaging of the torsion spring return mechanism</li>
     </ul>
-  
-    
-   </div>
+  </div>
 </div>
 
 <div class="row center" style="text-align: center;">
