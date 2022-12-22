@@ -20,7 +20,7 @@ layout: post
 <div class="row" style="text-align: center;">
   
    <div class="column">
-    <img src="https://www.donaldle.com/assets/images/Throttlepedalprototype.JPG" height="450" alt="tpp" />
+    <img src="https://www.donaldle.com/assets/images/Throttlepedal3.png" height="450" alt="tpp" />
     <center>Initial prototype made from laser cut</center>
     <center> wood and 3-d printing</center>
    </div>
