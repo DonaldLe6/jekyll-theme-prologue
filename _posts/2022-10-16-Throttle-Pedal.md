@@ -81,5 +81,4 @@ layout: post
 <br>  
 
 
-<center>Page is under construction </center>
 
