@@ -39,7 +39,7 @@ layout: post
 
 <div class="row center" style="text-align: center;">
   <div class="column">
-    <img src="https://www.donaldle.com/assets/images/Torsionspringtesting.JPG" alt="tp" />
+    <img src="https://www.donaldle.com/assets/images/Torsionspringtesting.JPG" height="450" alt="tp" />
   </div>
   
   <div class="column">
