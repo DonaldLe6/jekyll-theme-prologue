@@ -48,13 +48,17 @@ layout: post
    </div>
 </div>
 
-<div class="row center" style="text-align: center;">
+<div class="row center">
   <div class="column">
     <img src="https://www.donaldle.com/assets/images/Torsionspringtesting.JPG" height="450" alt="tp" />
   </div>
   
   <div class="column">
-    <center>Torsion spring return force testing</center>
+    Torsion Spring Return Force Testing
+    <ul>
+      <li>Tested many different torsion springs at various preloads</li>
+      <li>Ended up manufacturing custom torsion springs out of <br> 304 stainless steel due to space constraints</li>
+    </ul>
    </div>
 </div>
 <br>  
