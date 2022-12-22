@@ -17,23 +17,6 @@ layout: post
 </div>
 
 <div class="row center">
-  <div class="column">
-    <img src="https://www.donaldle.com/assets/images/Throttlepedal2.jpeg" alt="tp" />
-  </div>
-  
-  <div class="column">
-    2022 Throttle Pedal(left) vs 2023 Throttle Pedal(right)
-    <ul>
-      <li>Utilzed two 3/8 in plates of 6061 T6 aluminum</li>
-      <li>Manufactured by waterjet & post-processed with drill press </li>
-      <li>Reduced weight by ~50% while maintaining the same FOS</li>
-      <li>Utilized bronze sleeve bearings to package torsion springs </li>
-      <li>Reduced max deflection at 100lbs of force to 0.07in </li>
-    </ul>
-  </div>
-</div>
-
-<div class="row center">
   
   <div class="column">
     <img src="https://www.donaldle.com/assets/images/Throttlepedalsim.png" alt="tp" />
@@ -77,6 +60,23 @@ layout: post
       <li>Ended up manufacturing custom torsion springs out of <br> 304 stainless steel due to space constraints</li>
     </ul>
    </div>
+</div>
+
+<div class="row center">
+  <div class="column">
+    <img src="https://www.donaldle.com/assets/images/Throttlepedal2.jpeg" alt="tp" />
+  </div>
+  
+  <div class="column">
+    2022 Throttle Pedal(left) vs 2023 Throttle Pedal(right)
+    <ul>
+      <li>Utilzed two 3/8 in plates of 6061 T6 aluminum</li>
+      <li>Manufactured by waterjet & post-processed with drill press </li>
+      <li>Reduced weight by ~50% while maintaining the same FOS</li>
+      <li>Utilized bronze sleeve bearings to package torsion springs </li>
+      <li>Reduced max deflection at 100lbs of force to 0.07in </li>
+    </ul>
+  </div>
 </div>
 <br>  
 
