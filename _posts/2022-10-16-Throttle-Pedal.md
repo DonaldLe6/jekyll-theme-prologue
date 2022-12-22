@@ -19,7 +19,7 @@ layout: post
   </div>
   
   <div class="column">
-    2022 throttle pedal(left) vs 2023 throttle pedal(right)</center>
+    2022 throttle pedal(left) vs 2023 throttle pedal(right)
     <ul>
       <li>Weight reduced by ~50% while maintaining the same FOS</li>
       <li>Reduced defelection</li>
