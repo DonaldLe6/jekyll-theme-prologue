@@ -19,7 +19,11 @@ layout: post
   </div>
   
   <div class="column">
-    <center>2022 throttle pedal(left) vs 2023 throttle pedal(right) wqeqweqweqwewfwqefewfwfewfqwfwefwefewfwkjbfwkjfbwkfbwkbqkf</center>
+    <center>2022 throttle pedal(left) vs 2023 throttle pedal(right)</center>
+    <center>The 2022 design was waterjetted from a slab of 6061 T6 aluminum and utlized ball bearings</center>
+    <center>My 2023 design utilized two 3/8in plates of 6061 T6 aluminum held together with screws and spacers with bronze sleeve bearings</center>
+    <center> Weight reduced: ~50% </center>
+    
    </div>
 </div>
 
