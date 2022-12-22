@@ -2,14 +2,17 @@
 title: Throttle Pedal
 layout: post
 ---
-<div class="row center" style="text-align: center;">
+<div class="row center">
   
   <div class="column">
     <img src="https://www.donaldle.com/assets/images/ThrottlePedal1.jpeg" alt="tp" />
   </div>
   
   <div class="column">
-    <center>Throttle Pedal Assembly CAD</center>
+    Throttle Pedal Assembly CAD</center>
+     <ul>
+      <li>Designed in Solidworks/li>
+     </ul>
    </div>
 </div>
 
