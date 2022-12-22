@@ -10,11 +10,19 @@ layout: post
   </div>
   
   <div class="column">
-    <img src="https://www.donaldle.com/assets/images/Throttlepedal2.jpeg" alt="tpc" /> <br>
-    <center></center>
+    <center>Throttle pedal assembly</center>
    </div>
 </div>
 
+<div class="row center" style="text-align: center;">
+  <div class="column">
+    <img src="https://www.donaldle.com/assets/images/Throttlepedal2.jpeg" alt="tp" />
+  </div>
+  
+  <div class="column">
+    <center>Throttle pedal assembly</center>
+   </div>
+</div>
 <br>  
 
 <div class="row center" style="text-align: center;">
