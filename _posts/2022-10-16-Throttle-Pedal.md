@@ -24,7 +24,7 @@ layout: post
     <center>Initial prototype made from laser cut</center>
     <center> wood and 3-d printing</center>
    </div>
-  <br>
+  
    <div class="column"> 
     <img src="https://www.donaldle.com/assets/images/Torsionspringtesting.JPG" height="450" alt="tpts" />
     <center>Torsion spring return force testing</center>
