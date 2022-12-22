@@ -21,9 +21,9 @@ layout: post
   <div class="column">
     <center>2022 throttle pedal(left) vs 2023 throttle pedal(right)</center>
     <ul>
-      <li></li>
-      <li>Tea</li>
-      <li>Milk</li>
+      <li>Weight reduced by ~50% while maintaining the same FOS</li>
+      <li>Reduced defelection</li>
+      <li>Bronze sleeve bearings allowed for the packaging of the torsion spring return mechanism</li>
     </ul>
   
     
