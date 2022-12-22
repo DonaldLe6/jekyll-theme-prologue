@@ -3,7 +3,6 @@ title: Throttle Pedal
 layout: post
 ---
 <div class="row center">
-  
   <div class="column">
     <img src="https://www.donaldle.com/assets/images/ThrottlePedal1.jpeg" alt="tp" />
   </div>
@@ -17,7 +16,6 @@ layout: post
 </div>
 
 <div class="row center">
-  
   <div class="column">
     <img src="https://www.donaldle.com/assets/images/Throttlepedalsim.png" alt="tp" />
   </div>
@@ -34,7 +32,6 @@ layout: post
 </div>
 
 <div class="row center" >
-  
   <div class="column">
     <img src="https://www.donaldle.com/assets/images/Throttlepedal3.png" alt="tp" />
   </div>
@@ -44,7 +41,7 @@ layout: post
      <ul>
       <li>Laser cut wood pieces</li>
       <li>3-D printed truncated pedal tray from PLA</li>
-    </ul>
+     </ul>
    </div>
 </div>
 
@@ -78,7 +75,6 @@ layout: post
     </ul>
   </div>
 </div>
-<br>  
 
 
 
