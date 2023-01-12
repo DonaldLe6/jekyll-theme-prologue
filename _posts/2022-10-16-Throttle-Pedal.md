@@ -40,7 +40,7 @@ layout: post
     Initial Prototype
      <ul>
       <li>Laser cut wood pieces</li>
-      <li>3-D printed truncated pedal tray from PLA</li>
+      <li>3-D printed truncated pedal tray made out of PLA</li>
      </ul>
    </div>
 </div>
