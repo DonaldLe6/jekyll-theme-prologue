@@ -67,7 +67,7 @@ layout: post
   <div class="column">
     2022 Throttle Pedal(left) vs 2023 Throttle Pedal(right)
     <ul>
-      <li>Utilzed two 3/8 in plates of 6061 T6 aluminum</li>
+      <li>Utilzed two 0.16" plates of 6061 T6 aluminum</li>
       <li>Manufactured by waterjet & post-processed with drill press </li>
       <li>Reduced weight by ~50% while maintaining the same FOS</li>
       <li>Utilized bronze sleeve bearings to package torsion springs </li>
