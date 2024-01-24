@@ -8,6 +8,21 @@ layout: post
 · Weight reduction - Optimize for weight while maintaining strength and stiffness <br/> 
 · Cost reduction - Reduce manufacturing time and cost <br/> 
 
+**Initial Prototype** <br/> 
+<div class="row center">
+  <div class="column">
+    <img src="https://www.donaldle.com/assets/images/Throttlepedal3.png" alt="tp" />
+  </div>
+  
+  <div class="column">
+     <ul>
+      <li>Laser cut wood pieces</li>
+      <li>3-D printed truncated pedal tray made out of PLA</li>
+     </ul>
+   </div>
+</div>
+
+
 **Throttle Pedal Assembly CAD** <br/> 
 <div class="row center">
   <div class="column">
@@ -37,19 +52,6 @@ layout: post
   </div>
 </div>
 
-<div class="row center">
-  <div class="column">
-    <img src="https://www.donaldle.com/assets/images/Throttlepedal3.png" alt="tp" />
-  </div>
-  
-  <div class="column">
-    Initial Prototype
-     <ul>
-      <li>Laser cut wood pieces</li>
-      <li>3-D printed truncated pedal tray made out of PLA</li>
-     </ul>
-   </div>
-</div>
 
 <div class="row center">
   <div class="column">
