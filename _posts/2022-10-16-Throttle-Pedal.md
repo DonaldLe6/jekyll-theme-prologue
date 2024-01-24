@@ -2,8 +2,8 @@
 title: Throttle Pedal
 layout: post
 ---
-High-level Project goals:
-· 
+High-level Project goals: <br/> 
+· <br/> 
 · Throttle return - Incorporate a spring-based system to return the throttle pedal to its neutral position <br/> 
 · Weight reduction - Optimize for weight while maintaining strength and stiffness <br/> 
 · Cost reduction - Reduce manufacturing time and cost <br/> 
