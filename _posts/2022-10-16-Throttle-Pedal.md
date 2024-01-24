@@ -26,7 +26,7 @@ layout: post
       <li>Simulated in Ansys static structural </li>
       <li>50lbs of force on the top face acquired from testing</li>
       <li>Frictionless constrain on the hardstop</li>
-      <li>Remote displacment for the pivot </li>
+      <li>Remote displacement for the pivot </li>
      </ul>
   </div>
 </div>
@@ -67,7 +67,7 @@ layout: post
   <div class="column">
     2022 Throttle Pedal(left) vs 2023 Throttle Pedal(right)
     <ul>
-      <li>Utilzed two 0.16" plates of 6061 T6 aluminum</li>
+      <li>Utilzed two 0.08" plates of 6061 T6 aluminum</li>
       <li>Manufactured by waterjet & post-processed with drill press </li>
       <li>Reduced weight by ~50% while maintaining the same FOS</li>
       <li>Utilized bronze sleeve bearings to package torsion springs </li>
