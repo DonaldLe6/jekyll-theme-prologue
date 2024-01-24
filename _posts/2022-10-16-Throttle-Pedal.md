@@ -15,7 +15,6 @@ layout: post
   </div>
 
   <div class="column">
-  
      <ul>
       <li>Designed in Solidworks </li>
      </ul>
