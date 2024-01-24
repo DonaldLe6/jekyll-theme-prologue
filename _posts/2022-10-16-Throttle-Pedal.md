@@ -8,15 +8,14 @@ layout: post
 · Weight reduction - Optimize for weight while maintaining strength and stiffness <br/> 
 · Cost reduction - Reduce manufacturing time and cost <br/> 
 
-
-
+**Throttle Pedal Assembly CAD** <br/> 
 <div class="row center">
   <div class="column">
     <img src="https://www.donaldle.com/assets/images/ThrottlePedal1.jpeg" alt="tp" />
   </div>
 
   <div class="column">
-    Throttle Pedal Assembly CAD
+  
      <ul>
       <li>Designed in Solidworks </li>
      </ul>
